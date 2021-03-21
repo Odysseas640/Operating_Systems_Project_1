@@ -1,0 +1,10 @@
+hash_table_size 300000
+current_year 2020
+input_file_delimiter space
+command_delimiter space
+---------------------------
+default year is 2020
+default hash_table_size is however many lines the input file is
+delimiter options are <space> and <comma>
+Format is: variable<space>value
+Replace value with - to ignore, or just remove the variable altogether
